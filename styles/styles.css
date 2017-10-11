@@ -1,0 +1,737 @@
+.rs-Newsletter-tips-highlightstory {
+	width: 600px;
+	height: 2082px;
+	background-color: #ffffff;
+	background-image: linear-gradient(transparent 0px, transparent 2px, rgb(255, 255, 255) 2px, rgb(255, 255, 255) 20px), linear-gradient(to right, rgb(200, 195, 199) 0px, rgb(200, 195, 199) 2px, rgb(255, 255, 255) 2px, rgb(255, 255, 255) 20px);
+	background-position: 74.5px -2px;
+    background-size: 20px 20px;
+    border: 1px solid black;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.inside {
+	background-color: #ffffff;
+	height: 2082px;
+	margin: auto;
+}
+
+.rs-logo {
+    width: 141px;
+    height: 36px;
+    object-fit: contain;
+    margin-left: 46px;
+    margin-top: 12px;
+}
+
+.View-in-your-browser {
+	width: 99px;
+    height: 13px;
+    font-family: AlrighSansLT;
+    font-size: 10px;
+    color: #ec5447;
+    margin-top: -28px;
+    margin-left: 460px;
+    margin-bottom: 23px;
+}
+
+.Summer-Newsletter {
+	width: 509px;
+	height: 58px;
+	font-family: TiemposText;
+	font-size: 44px;
+	line-height: 1.02;
+	letter-spacing: -0.4px;
+	text-align: left;
+	color: #0a273c;
+	margin-left: 46px;
+}
+
+.z {
+	width: 273px;
+	height: 34px;
+	font-family: AlrightSansLT;
+	font-size: 14px;
+	line-height: 1.21;
+	text-align: left;
+	color: #85939e;
+	margin-left: 46px;
+}
+
+.NewsletterGraphicPlaceholder {
+	width: 222px;
+    height: 149px;
+    object-fit: contain;
+    position: relative;
+    bottom: 165px;
+    left: 330px;
+}
+
+.Bitmap {
+	width: 509px;
+    height: 166px;
+    object-fit: contain;
+    position: relative;
+    bottom: 100px;
+    left: 40px;
+}
+
+.TRACTION {
+	width: 53px;
+    height: 13px;
+    font-family: AlrightSansLT;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    color: #60cbe2;
+    margin-top: -60px;
+    margin-left: 189px;
+}
+
+.Rectangle-8 {
+	width: 64px;
+    height: 1px;
+    opacity: 0.47;
+    background-color: #85939e;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+
+.Traction-Conference {
+	width: 208px;
+    height: 7px;
+    font-family: TiemposHeadline;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    color: #0a273c;
+    margin-left: 190px;
+    margin-top: 5px;
+}
+
+.Hi-There-Were-still {
+	width: 330px;
+    height: 164px;
+    opacity: 0.73;
+    font-family: AlrightSansLT;
+    font-size: 14px;
+    line-height: 1.36;
+    letter-spacing: -0.1px;
+    text-align: left;
+    color: #0a273c;
+    margin-left: 190px;
+    margin-top: 20px;
+}
+
+.Hi-There-Were-still .text-style-1 {
+	color: #ec5447;
+}
+
+.section-1 {
+	position: relative;
+    text-align: center;
+    left: 50%;
+}
+
+.Tips-for-Action {
+	width: 589px;
+    height: 22px;
+    font-family: TiemposText;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: left;
+    color: #0a273c;
+    margin-left: 197px;
+    margin-top: 44px;
+}
+
+.All-the-things-you-n {
+	width: 581px;
+    height: 18px;
+    font-family: AlrightSansLT;
+    font-size: 14px;
+    text-align: center;
+    color: #0a273c;
+}
+
+.Rectangle-4 {
+	width: 510px;
+    height: 136px;
+    background-color: #ffffff;
+    border: solid 1px #eceef0;
+    margin-left: 35px;
+}
+
+.Investing-for-brand {
+	width: 300px;
+    height: 20px;
+    font-family: AlrightSansLT;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #0a273c;
+    margin-left: 140px;
+    margin-top: -56px;
+}
+
+.Zapier-is-an-incredi {
+	width: 320px;
+    height: 32px;
+    font-family: AlrightSansLT;
+    font-size: 12px;
+    text-align: left;
+    color: #85939e;
+    margin-left: 143px;
+}
+
+.read-more {
+	width: 61px;
+    height: 13px;
+    font-family: AlrightSansLT;
+    font-size: 10px;
+    font-weight: 500;
+    text-align: left;
+    color: #60cbe2;
+    margin-left: 156px;
+}
+
+.growth-icon {
+	width: 130px;
+    height: 64px;
+    object-fit: contain;
+    margin-top: 14px;
+    margin-bottom: -8px;
+}
+
+.Rectangle-5 {
+	width: 510px;
+    height: 136px;
+    background-color: #ffffff;
+    border: solid 1px #eceef0;
+    margin-left: 35px;
+    margin-top: 18px;
+}
+
+.growth-icon2 {
+	width: 130px;
+    height: 64px;
+    object-fit: contain;
+    margin-top: 14px;
+    margin-bottom: -8px;
+}
+
+.Social-Media-Trends1 {
+	    width: 350px;
+    height: 20px;
+    font-family: AlrightSansLT;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #0a273c;
+    margin-left: 140px;
+    margin-top: -56px;
+}
+
+.Rectangle-6 {
+	width: 510px;
+    height: 136px;
+    background-color: #ffffff;
+    border: solid 1px #eceef0;
+    margin-left: 35px;
+    margin-top: 18px;
+}
+
+.growth-icon3 {
+	width: 130px;
+    height: 64px;
+    object-fit: contain;
+    margin-top: 14px;
+    margin-bottom: -13px;
+}
+
+.Social-Media-Trends2 {
+	width: 350px;
+    height: 20px;
+    font-family: AlrightSansLT;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #0a273c;
+    margin-left: 140px;
+    margin-top: -56px;
+}
+
+.line-2 {
+	width: 600px;
+    height: 0px;
+    border: solid 1px #eceef0;
+    margin-top: 36px;
+}
+
+.Your-favourite-blog {
+	width: 572px;
+    height: 32px;
+    font-family: TiemposText;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    color: #0a273c;
+}
+
+.Our-readers-have-fou {
+	width: 596px;
+    height: 18px;
+    font-family: AlrightSansLT;
+    font-size: 14px;
+    text-align: center;
+    color: #0a273c;
+    margin-top: -24px;
+}
+
+.rs-blog-illustration-traction2 {
+	width: 240px;
+    height: 98px;
+    object-fit: contain;
+    margin-top: -3px;
+    margin-bottom: 4px;
+}
+
+.Rectagle-5-Copy-1 {
+	width: 242px;
+    height: 275px;
+    background-color: #ffffff;
+    border: solid 1px #eceef0;
+    margin-top: 36px;
+    margin-left: 34px;
+}
+
+.TRACTION1 {
+	width: 103px;
+    height: 13px;
+    font-family: AlrightSansLT;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    color: #60cbe2;
+}
+
+.Takeaway-from-Tracti {
+  width: 202px;
+  height: 22px;
+  font-family: TiemposHeadline;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.38;
+  text-align: left;
+  color: #0a273c;
+  margin-left: 24px;
+  margin-top: -2px;
+}
+
+.We-learned-so-much-f1 {
+  width: 181px;
+  height: 90px;
+  opacity: 0.73;
+  font-family: AlrightSansLT;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: left;
+  color: #0a273c;
+  margin-left: 26px;
+  margin-top: -9px;
+}
+
+.We-learned-so-much-f2 {
+  width: 181px;
+  height: 90px;
+  opacity: 0.73;
+  font-family: AlrightSansLT;
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: left;
+  color: #0a273c;
+  margin-left: 25px;
+  margin-top: -10px;
+}
+
+.rs-blog-automationmadeeasy_1024 {
+  width: 240px;
+  height: 98.6px;
+  object-fit: contain;
+}
+
+.TRACTION2 {
+	width: 433px;
+    height: 13px;
+    font-family: AlrightSansLT;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: left;
+    color: #60cbe2;
+    margin-left: 20px;
+}
+
+.Sales-Automation-Mad {
+  	 width: 212px;
+    height: 22px;
+    font-family: TiemposHeadline;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.38;
+    text-align: left;
+    color: #0a273c;
+    margin-left: 21px;
+    margin-top: 2px;
+}
+
+.Rectangle-6-Copy-2 {
+	width: 242px;
+    height: 275px;
+    background-color: #ffffff;
+    border: solid 1px #eceef0;
+    margin-top: -277px;
+    margin-left: 300px;
+}
+
+.Rectangle-7 {
+	width: 600px;
+    height: 50px;
+    background-color: #ec5447;
+    margin-top: 50px;
+}
+
+.text {
+	width: 444px;
+    height: 19px;
+    font-family: AlrightSansLT;
+    font-size: 14px;
+    line-height: 1.36;
+    text-align: left;
+    color: #ffffff;
+    padding-top: 14px;
+    padding-left: 90px;
+}
+
+.text-style-2 {
+	font-weight: 500;
+}
+
+.Made-in-Canada {
+	 width: 198px;
+    height: 18px;
+    opacity: 0.5;
+    font-family: AlrightSansLT;
+    font-size: 14px;
+    text-align: left;
+    color: #85939e;
+    margin-left: 43px;
+}
+
+.Made-in-Canada .text.style-3 {
+	font-weight: bold;
+}
+
+.canada1 {
+	width: 14px;
+    height: 13px;
+    object-fit: contain;
+    margin-left: 140px;
+    margin-bottom: -33px;
+}
+
+.linkedin-icon,
+.twitter-icon,
+.facebook-icon,
+.instagram-icon {
+	width: 35px;
+    height: 35px;
+    object-fit: contain;
+    padding-left: 7px;
+}
+
+.Social-med {
+	margin-top: -40px;
+    margin-left: 386px;
+}
+
+.line-Copy-3 {
+	width: 600px;
+    height: 0px;
+    border: solid 1px #eceef0;
+    margin-top: 18px;
+}
+
+.Unsubscribe {
+  	width: 93px;
+  	height: 16px;
+  	font-family: AlrightSansLT;
+  	font-size: 12px;
+  	letter-spacing: 0.5px;
+  	text-align: left;
+  	color: #0a273c;
+  	margin-top: 45px;
+  	margin-left: 171px;
+}
+
+.Unsubscribe .text-style-4 {
+  letter-spacing: normal;
+}
+
+.View-in-your-browser2 {
+  	width: 121px;
+    height: 16px;
+    font-family: AlrightSansLT;
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #0a273c;
+    margin-top: -27px;
+    margin-left: 288px;
+}
+
+.Red-Stam {
+  	width: 315px;
+    height: 16px;
+    opacity: 0.5;
+    font-family: AlrightSansLT;
+    font-size: 12px;
+    text-align: left;
+    color: #85939e;
+    margin-left: 152px;
+}
+
+.logo {
+	margin-left: 280px;
+    margin-top: 25px;
+}
+
+/* Media Query */
+
+
+@media only screen and (max-width: 700px) {
+	.rs-Newsletter-tips-highlightstory {
+		width: 460px;
+	}
+
+	.rs-logo {
+		width: 117px;
+    	height: 36px;
+    	object-fit: contain;
+    	margin-left: 23px;
+    	margin-top: 12px;
+	}
+
+	.View-in-your-browser {
+		margin-left: 320px;
+	}
+
+	.Summer-Newsletter {
+		width: 455px;
+    	height: 57px;
+    	font-size: 40px;
+    	margin-left: 27px;
+	}
+
+	.z {
+		width: 199px;
+        font-size: 12px;
+    	margin-left: 28px;
+	}
+
+	.NewsletterGraphicPlaceholder {
+		width: 174px;
+    	bottom: 151px;
+    	left: 263px;
+	}
+
+	.Bitmap {
+		width: 399px;
+    	left: 35px;
+	}
+
+	.Rectangle-8 {
+    margin-left: 36px;
+	}
+
+	.TRACTION {
+    margin-left: 139px;
+	}
+
+	.Traction-Conference {
+    margin-left: 140px;
+	}
+
+	.Hi-There-Were-still {
+		width: 280px;
+    font-size: 13px;
+    margin-left: 142px;
+ 	}
+
+	.Tips-for-Action	{
+		margin-top: 0px;
+	}
+
+	.All-the-things-you-n {
+		width: 521px;
+		font-size: 13px;
+	}
+
+	.Rectangle-4 {
+		width: 394px;
+    	margin-left: 18px;
+	}
+
+	.Investing-for-brand {
+		width: 179px;
+	}
+
+	.Zapier-is-an-incredi {
+		width: 229px;
+	}
+
+	.read-more {
+		margin-left: 144px;
+	}
+
+	.Rectangle-5 {
+		width: 394px;
+    	margin-left: 18px;
+	}
+
+	.Zapier-is-an-incredi {
+		width: 229px;
+	}
+
+	.read-more {
+		margin-left: 144px;
+	}
+
+	.Rectangle-6 {
+		width: 394px;
+    	margin-left: 18px;
+	}
+
+	.Zapier-is-an-incredi {
+		width: 229px;
+	}
+
+	.read-more {
+		margin-left: 144px;
+	}
+
+	.Your-favourite-blog {
+		width: 442px;
+	}
+
+	.Our-readers-have-fou {
+		width: 465px;
+	}
+
+	.Rectagle-5-Copy-1  {
+		width: 204px;
+		margin-top: 36px;
+	}
+
+	.rs-blog-illustration-traction2 {
+		width: 207px;
+	}
+
+	.Takeaway-from-Tracti {
+		margin-left: 22px;
+		font-size: 11px;
+	}
+
+	.We-learned-so-much-f1 {
+		 width: 171px;
+    	margin-left: 24px;
+    	
+	}
+
+
+	.Rectangle-6-Copy-2 {
+		width: 171px;
+    	margin-left: 266px;
+	}
+
+	.rs-blog-automationmadeeasy_1024 {
+		width: 171px;
+    	margin-top: 1px;
+	}
+
+	.line-2 {
+		width: 460px;
+	}
+
+	.TRACTION2  {
+		margin-left: 12px;
+	}
+
+	.Sales-Automation-Mad {
+		width: 192px;
+    	font-size: 11px;
+    	margin-left: 10px;
+	}
+
+	.We-learned-so-much-f2 {
+		width: 140px;
+    	margin-left: 14px;
+	}
+
+	.text {
+		padding-left:  51px;
+    	font-size: 12px;
+	}
+
+	.Rectangle-7 {
+		width: 460px;
+	}
+
+	.Social-med {
+		margin-left: 274px;
+	}
+
+	.linkedin-icon  {
+		width: 26px;
+	}
+
+	.twitter-icon {
+		width: 26px;
+	}
+
+	.facebook-icon {
+		width: 26px;
+	}
+
+	.instagram-icon {
+		width: 26px;
+	}
+
+	.line-Copy-3 {
+		width: 460px;
+	}
+
+	.Unsubscribe {
+		margin-left: 163px;
+	}
+
+	.View-in-your-browser2 {
+		margin-left: 279px;
+    	margin-top: -28px;
+	}
+
+	.footer {
+		margin-left: -50px;
+	}
+
+	.Red-Stam {
+		margin-left: 98px;
+	}
+
+	.logo {
+		margin-left: 212px;
+	}
+}
